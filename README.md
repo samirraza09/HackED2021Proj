@@ -1,4 +1,5 @@
 # HackED2021Proj
+The ultimate battle on summoners rift! The clash of the two marksman, the damacian gun slinger, and the queen of the freljord!
 
 Running Instructions:
 
